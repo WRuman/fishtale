@@ -1,5 +1,5 @@
-#ifndef FK_DIAGNOSTICS_H
-#define FK_DIAGNOSTICS_H
+#ifndef FK_SHOW_H
+#define FK_SHOW_H
 
 #include <gpiod.hpp>
 

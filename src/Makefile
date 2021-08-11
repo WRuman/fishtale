@@ -1,6 +1,6 @@
 PROJ=fishtale
 CC=g++
-SRC=diagnostics.h diagnostics.cpp main.cpp
+SRC=show.h show.cpp main.cpp
 LIBS=-lgpiodcxx
 CFLAGS=-std=c++17 -Wconversion -Wall -Werror -Wextra -Wpedantic
 

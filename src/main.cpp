@@ -7,7 +7,7 @@
 #include <iomanip>
 #include <string>
 
-#include "diagnostics.h"
+#include "show.h"
 
 enum UsageMode {
 	GENERAL,
