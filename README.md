@@ -1,5 +1,5 @@
-# Fishtale
-Track aquarium metrics cheaply and efficiently.
+# GPIO Resample
+Read GPIO information using the `libgpiod` kernel interface.
 
 ## Prerequisites
 - Raspberry Pi with Raspberry Pi OS.
